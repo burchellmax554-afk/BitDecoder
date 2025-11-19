@@ -74,3 +74,5 @@ function [decodedbits, truebits] = callRx(fs, numbits, seed)
     end
     disp('If on campus, or using the VPN, you can see the leaderboard <a href="http://aspect.kb.wwu.edu/leaderboard.php">here</a>.')
 end
+
+%  Note from the very end: My code's upper limit is around 60 bits
